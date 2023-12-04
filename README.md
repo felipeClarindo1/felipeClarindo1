@@ -5,9 +5,26 @@
 
 ### <div align="center"></div>  
   
+👨‍💻 Desenvolvedor Java |  Spring Boot | Apaixonado por Códigos 🚀
 
+Olá! Sou Felipe, um desenvolvedor Java entusiasmado com mais de um ano e meio de experiência na criação de soluções inovadoras. Meu foco principal é a utilização do framework Spring Boot para desenvolver aplicações robustas e eficientes.
 
-  
+  💼 Experiência Profissional:
+
+Desenvolvedor Java na Esquematika - Contribuí para o desenvolvimento de projetos utilizando as melhores práticas e tecnologias emergentes.
+🚀 Habilidades Técnicas:
+
+Linguagens: Java
+Frameworks: Spring Boot
+Experiência: Programação Java por mais de um ano e meio.
+🔧 Expertise Técnica:
+
+Desenvolvimento de APIs RESTful
+Integração de sistemas
+Persistência de dados com bancos de dados relacionais
+
+💬 Sobre Mim:
+Sou apaixonado por resolver problemas complexos através da programação e estou sempre em busca de aprender novas tecnologias. Adoro trabalhar em equipe, compartilhar conhecimento e enfrentar desafios que impulsionem meu crescimento profissional.
 
 
 <br/>  
