@@ -71,34 +71,13 @@ Sou apaixonado por resolver problemas complexos através da programação e esto
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipeClarindo1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=felipeClarindo1&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
